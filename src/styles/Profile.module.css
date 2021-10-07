@@ -1,0 +1,15 @@
+.profile {
+  text-align: center;
+  background-color: #ecadad;
+  font-size: 25px;
+}
+.stats {
+  list-style: none;
+}
+.label {
+  margin-right: 8px;
+}
+.quantity {
+  font-size: 35px;
+  font-style: italic;
+}

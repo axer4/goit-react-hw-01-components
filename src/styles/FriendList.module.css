@@ -1,0 +1,22 @@
+.item {
+  background-color: antiquewhite;
+  text-align: center;
+}
+.list {
+  list-style: none;
+  font-size: 25px;
+}
+.status {
+  display: inline-block;
+  border-radius: 50%;
+  background-color: red;
+  width: 15px;
+  height: 15px;
+}
+.isOnline {
+  display: inline-block;
+  border-radius: 50%;
+  background-color: green;
+  width: 15px;
+  height: 15px;
+}
